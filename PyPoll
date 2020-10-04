@@ -1,14 +1,13 @@
-<<<<<<< HEAD
+
 import os, csv
 
 input_file = path("python-challenge", "PyPoll")
-Election Data = {'Voter ID': ['Total Months',],
-        'County': ['Total Months',],
-        'Candidate': ['Total Months',],
+Election Data = {'Voter ID': ['Data',],
+        'County': ['Data',],
+        'Candidate': ['Data',],
 }
 df = pd.DataFrame (data, columns = [])
 
 print (df)
  
 
-=======
