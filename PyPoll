@@ -1,0 +1,9 @@
+Election Data = {'Voter ID': ['Total Months',],
+        'County': ['Total Months',],
+        'Candidate': ['Total Months',],
+}
+df = pd.DataFrame (data, columns = [])
+
+print (df)
+ 
+
