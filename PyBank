@@ -1,4 +1,7 @@
-Soultion File
+import os, csv
+
+input_file = path("python-challenge", "PyBank")
+
 Budget Data = {'Date': ['Total Months','Total','Average Change','Greatest Increase in Profits','Greatest Decrease in Profits'],
         'Profit/Losses': ['Total Months','Total','Average Change','Greatest Increase in Profits','Greatest Decrease in Profits'],
 }

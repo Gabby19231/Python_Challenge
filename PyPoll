@@ -1,3 +1,6 @@
+import os, csv
+
+input_file = path("python-challenge", "PyPoll")
 Election Data = {'Voter ID': ['Total Months',],
         'County': ['Total Months',],
         'Candidate': ['Total Months',],
